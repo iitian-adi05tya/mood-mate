@@ -8,8 +8,6 @@
 - [Design](#design)
 - [Technologies Used](#technologies-used)
 - [Functionalities](#functionalities)
-- [How to Run](#how-to-run)
-- [Contact](#contact)
 
 ## Introduction
 
